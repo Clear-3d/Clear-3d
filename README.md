@@ -24,3 +24,7 @@ Welcome to my Github Page!
 - Wake up early
 - Read at least one paper a day
 - Write a journal every day to record my life
+
+📫 **How to reach me:** 
+
+- xmuzyyy@gmail.com
