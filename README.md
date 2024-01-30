@@ -6,7 +6,7 @@ Welcome to my Github Page!
 
 ⚡**Things I am interested in:**
 
-- CV &CG
+- CV & CG
 - Semantic Segmentation
 - 3D Reconstruction(e.g. Text-to-3D)
 
