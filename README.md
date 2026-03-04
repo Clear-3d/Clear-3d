@@ -9,7 +9,7 @@ Welcome to my Github page!
 
 🌱 **Things I’m currently working on:**
 
-- text rendering in text2image.
+- image edit.
 
 🔭**Things I'm challenging myself with:**
 
